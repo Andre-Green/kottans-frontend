@@ -17,5 +17,9 @@
 <p>In this phase I've get acquainted with <a href="https://learngitbranching.js.org/">https://learngitbranching.js.org/</a>. It's new for me to</p>
 <p>It's a well-structured web app with good UI, but for me some descriptions of taste are hard to understand. Sometimes I reread some text again and again to understand the main idea</p>
 
+### Linux CLI, and HTTP
+<hr />
+
+<p>In this phase I've get acquainted with Linux terminal <a href="https://linuxsurvival.com/">https://linuxsurvival.com/</a>. I've already know about Linux, but I don't know how many differences they have from Windows. Good and useful source.</p>
 
 
