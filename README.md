@@ -22,4 +22,9 @@
 
 <p>In this phase I've get acquainted with Linux terminal <a href="https://linuxsurvival.com/">https://linuxsurvival.com/</a>. I've already know about Linux, but I don't know how many differences they have from Windows. Good and useful source.</p>
 
+<p>Then I've alredy done Linux CLI</p> 
+<p><img src="https://raw.githubusercontent.com/Andre-Green/kottans-frontend/main/task_linux_cli/screenshot_linux.png" alt="screen linux finish" title="screenshot" /></p>
+
+<p>Article  "HTTP: Протокол, який повинен розуміти кожний веб-розробник.." IMHO is difficult to understand, especially vol. 2. They have a lot of new descriptions and names, that you don't know how to use. But maybe it's just a first view?..</p>
+
 
