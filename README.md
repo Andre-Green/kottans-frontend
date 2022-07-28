@@ -38,3 +38,9 @@ At least this guy in Coursera has a very good pronunciation. I like to hear him.
 <p><img src="https://raw.githubusercontent.com/Andre-Green/kottans-frontend/1687bae4e6b95a6a61bc5d15dbd4fe7fc6387e11/task_git_collaboration/gitbranching.png" alt="githubusercontent screenshot" title="screenshot" /></p>
 For sure it was a difficult task. Maybe I come to them later again.
 
+### 3 Intro to HTML and CSS
+<hr />
+<p>The phase is intro in HTML and CSS. I already have some skills and understanding of these technologies.
+I've done Coursera Intro to HTML & CSS before I started this course.
+There are some screenshots below</p>
+<p><img src="https://raw.githubusercontent.com/Andre-Green/kottans-frontend/main/task_html_css_intro/CSS-1.png" alt="coursera screenshot" title="screenshot" /></p>
