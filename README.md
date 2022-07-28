@@ -44,3 +44,11 @@ For sure it was a difficult task. Maybe I come to them later again.
 I've done Coursera Intro to HTML & CSS before I started this course.
 There are some screenshots below</p>
 <p><img src="https://raw.githubusercontent.com/Andre-Green/kottans-frontend/main/task_html_css_intro/CSS-1.png" alt="coursera screenshot" title="screenshot" /></p>
+
+
+### 4 Responsive Web Design
+<hr />
+<p>The phase is about Responsive design. I already have some skills and understanding of these technologies.
+I've done with plasure funny garden game.
+There are some screenshots below</p>
+<p><img src="https://raw.githubusercontent.com/Andre-Green/kottans-frontend/main/task_responsive_web_design/garden.png" alt="garden screenshot" title="screenshot" /></p>
